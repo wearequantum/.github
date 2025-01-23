@@ -1,6 +1,6 @@
 # Pull Request
 
-<-- NOTE: ensure the title follows the conventional commit format and contains the relevant ticket number e.g. `feat(SVTP-0001-project-setup): initialise developer tooling`  -->
+<!-- NOTE: ensure the title follows the conventional commit format and contains the relevant ticket number e.g. `feat(SVTP-0001-project-setup): initialise developer tooling`  -->
 
 ## Description
 <!-- Provide a clear and concise description of your changes. Explain the motivation behind them and their impact. -->
