@@ -13,8 +13,8 @@
 
 ## Overview
 - **Description**: 
-- **Risk Level**: [Low/Medium/High]
-- **Impact**: [API/UI/DB/CI/None]
+- **Risk Level**: Low/Medium/High
+- **Impact**: API/UI/DB/CI/None
 
 ## Quality Assurance
 - [ ] Tests Added/Updated
