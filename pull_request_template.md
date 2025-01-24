@@ -1,6 +1,7 @@
 # Pull Request
 
 <!-- Title format: type(TICKET-ID): description -->
+<!-- Make sure to add a label from the menu on the right -->
 
 ## Release Version
 <!-- Delete if not releasing to main, uncomment release version if you are releasing to main branch -->
