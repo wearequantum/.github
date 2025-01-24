@@ -18,14 +18,6 @@ This should only be added if If this is a release uncomment the code below and i
 - [ ] Is Release
 - [ ] Is Not a Release
 
-## Type of Change
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Breaking change
-- [ ] Documentation update
-- [ ] Configuration change
-- [ ] Refactoring
-
 ## Description
 <!-- Provide a clear and concise description of your changes. Explain the motivation behind them and their impact. -->
 
