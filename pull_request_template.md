@@ -5,6 +5,7 @@
 
 ## Release Version
 <!-- Delete if not releasing to main, uncomment release version if you are releasing to main branch -->
+<!-- If this is a release the title and merge commit head should be `release: x.x.x` -->
 - [ ] Release-As: <!-- x.x.x -->
 
 > [!CAUTION]
